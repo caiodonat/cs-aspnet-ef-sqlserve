@@ -1,0 +1,17 @@
+/workspaces/Ddd/Ddd.Infrastructure/bin/Debug/net7.0/Ddd.Infrastructure.deps.json
+/workspaces/Ddd/Ddd.Infrastructure/bin/Debug/net7.0/Ddd.Infrastructure.runtimeconfig.json
+/workspaces/Ddd/Ddd.Infrastructure/bin/Debug/net7.0/Ddd.Infrastructure.dll
+/workspaces/Ddd/Ddd.Infrastructure/bin/Debug/net7.0/Ddd.Infrastructure.pdb
+/workspaces/Ddd/Ddd.Infrastructure/bin/Debug/net7.0/Ddd.Domain.dll
+/workspaces/Ddd/Ddd.Infrastructure/bin/Debug/net7.0/Ddd.Domain.pdb
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.csproj.AssemblyReference.cache
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.AssemblyInfoInputs.cache
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.AssemblyInfo.cs
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.csproj.CoreCompileInputs.cache
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.csproj.CopyComplete
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.dll
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/refint/Ddd.Infrastructure.dll
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.pdb
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/Ddd.Infrastructure.genruntimeconfig.cache
+/workspaces/Ddd/Ddd.Infrastructure/obj/Debug/net7.0/ref/Ddd.Infrastructure.dll

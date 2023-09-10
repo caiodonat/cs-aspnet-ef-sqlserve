@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/Ddd/Ddd.Infrastructure/Ddd.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/workspaces/Ddd/Ddd.Domain/Ddd.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/Ddd/Ddd.Domain/Ddd.Domain.csproj",
+        "projectName": "Ddd.Domain",
+        "projectPath": "/workspaces/Ddd/Ddd.Domain/Ddd.Domain.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/Ddd/Ddd.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspaces/Ddd/Ddd.Infrastructure/Ddd.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/Ddd/Ddd.Infrastructure/Ddd.Infrastructure.csproj",
+        "projectName": "Ddd.Infrastructure",
+        "projectPath": "/workspaces/Ddd/Ddd.Infrastructure/Ddd.Infrastructure.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/Ddd/Ddd.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/workspaces/Ddd/Ddd.Domain/Ddd.Domain.csproj": {
+                "projectPath": "/workspaces/Ddd/Ddd.Domain/Ddd.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqLite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

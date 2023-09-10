@@ -1,0 +1,12 @@
+/workspaces/Ddd/Ddd.Domain/bin/Debug/net7.0/Ddd.Domain.deps.json
+/workspaces/Ddd/Ddd.Domain/bin/Debug/net7.0/Ddd.Domain.dll
+/workspaces/Ddd/Ddd.Domain/bin/Debug/net7.0/Ddd.Domain.pdb
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/Ddd.Domain.csproj.AssemblyReference.cache
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/Ddd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/Ddd.Domain.AssemblyInfoInputs.cache
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/Ddd.Domain.AssemblyInfo.cs
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/Ddd.Domain.csproj.CoreCompileInputs.cache
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/Ddd.Domain.dll
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/refint/Ddd.Domain.dll
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/Ddd.Domain.pdb
+/workspaces/Ddd/Ddd.Domain/obj/Debug/net7.0/ref/Ddd.Domain.dll

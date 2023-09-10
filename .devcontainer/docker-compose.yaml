@@ -1,0 +1,38 @@
+version: "3.8"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: sleep infinity
+    depends_on:
+      - db
+    restart: on-failure
+    networks:
+      - backend
+    volumes:
+      - ../..:/workspaces:cached
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    # container_name: mssql
+    restart: on-failure
+    environment:
+      DATABASE_USER: "msqsl"
+      ACCEPT_EULA: "Y"
+      MSSQL_DB: "master"
+      MSSQL_SA_PASSWORD: "p4ss!#W0rd"
+      MSSQL_PID: "Developer"
+    networks:
+      - backend
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-data:/var/lib/mssql/data
+
+networks:
+  backend:
+
+volumes:
+  mssql-data:
