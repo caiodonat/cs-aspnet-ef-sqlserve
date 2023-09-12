@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ddd.Infrastructure", "Ddd.I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ddd.Domain", "Ddd.Domain\Ddd.Domain.csproj", "{858D8516-A2BC-48A2-8FC7-AB5AA65C8808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ddd.Api", "Ddd.Api\Ddd.Api.csproj", "{B70E226C-2701-4460-8B81-1911F8352C85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ddd.Application", "Ddd.Application\Ddd.Application.csproj", "{B70E226C-2701-4460-8B81-1911F8352C85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
