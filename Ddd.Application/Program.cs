@@ -3,6 +3,7 @@ using Ddd.Domain.Services;
 using Ddd.Infrastructure.Data;
 using Ddd.Infrastructure.Interfaces;
 using Ddd.Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 

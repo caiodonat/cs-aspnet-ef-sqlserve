@@ -9,8 +9,6 @@ namespace Ddd.Infrastructure.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         // => optionsBuilder.UseSqlite("DataSource=../Ddd.Infrastructure/app.db;Cache=Shared");
-        => optionsBuilder.UseSqlite("DataSource=../Ddd.Infrastructure/app.db;Cache=Shared");
-        // server=localhost;port=3306;database=industrialpassport;user=admin;password=123456
-        // base.OnConfiguring(optionsBuilder);
+        => optionsBuilder.UseSqlServer("Server=db;Database=msdb;User=SA;Password=p4ss!#W0rd;TrustServerCertificate=true");
     }
 }

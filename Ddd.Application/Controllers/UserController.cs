@@ -23,7 +23,6 @@ public class UserController : ControllerBase
 
 	[HttpGet("/users/all")]
 	public List<User> GetAllUser(
-		[FromRoute()] int id
 	)
 	{
 		// return _service.GetById(id);
